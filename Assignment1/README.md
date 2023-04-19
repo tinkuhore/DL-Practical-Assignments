@@ -1,5 +1,8 @@
 # CIFAR-10 CLASSIFIER
 
+Create a Web Application using Flask. Use the end user should be able
+to upload an image and get results with the prediction score.
+
 ## How to Run
 
 1. create virtual environment using following command
