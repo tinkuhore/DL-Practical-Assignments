@@ -63,7 +63,7 @@
 
 	
 ## 3. Create ECR repo to store/save docker image
-    - Save the URI: 315865595366.dkr.ecr.us-east-1.amazonaws.com/simple-app
+    - Save the URI: saved it in CIFAR-1_access_key.csv
 
 	
 ## 4. Create EC2 machine (Ubuntu) 
@@ -75,7 +75,7 @@
 
 	sudo apt-get update -y
 
-	sudo apt-get upgrade
+	sudo apt-get upgrade 
 	
 	#required
 
