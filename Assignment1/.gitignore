@@ -133,3 +133,5 @@ Saved_models-20230418T184011Z-001.zip
 cifar-10-python.tar.gz
 env
 Saved_models/VGG16_model.h5
+CIFAR-10_accessKeys.csv
+tinku.pem
