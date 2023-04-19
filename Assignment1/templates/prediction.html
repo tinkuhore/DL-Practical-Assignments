@@ -1,0 +1,13 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>CIFAR-10 Image Classification</title>
+</head>
+<body>
+	<h1>CIFAR-10 Image Classification</h1>
+	<p>The predicted class is: {{ class_name }}</p>
+    <p>The Probability score is: {{ prob }}</p>
+	<img src="{{ url_for('uploaded_file', filename=image_filename) }}">
+	<p><a href="/">Classify another image</a></p>
+</body>
+</html>
